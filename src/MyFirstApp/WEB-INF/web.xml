@@ -1,0 +1,11 @@
+<web-app>
+	<servlet>
+	<servlet-name>DummyName</servlet-name>
+	<servlet-class>MsbteDemo</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+	<servlet-name>DummyName</servlet-name>
+	<url-pattern>/url</url-pattern>
+	</servlet-mapping>
+</web-app>
